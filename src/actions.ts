@@ -3258,7 +3258,7 @@ export function GetActionsList(
 		},
 		[ActionId.InsertOn]: {
 			name: 'Insert Status',
-			description: 'Switch Insert no or off for a specific source',
+			description: 'Switch Insert on or off for a specific source',
 			options: [
 				{
 					type: 'dropdown',
